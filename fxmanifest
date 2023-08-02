@@ -1,0 +1,8 @@
+fx_version 'cerulean'
+game 'gta5'
+
+description 'A simple script to control vehicle movement in the air'
+author 'Your Name'
+version '1.0.0'
+
+client_script 'client.lua'
